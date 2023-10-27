@@ -9,7 +9,7 @@ I’m a researcher with a decade of experience in UX research and evaluation, da
 * 🌍  I'm based in California
 * 🖥️  See my portfolio at [elhamyali.github.io](http://elhamyali.github.io)
 * 🚀  I'm currently working on [The Opportunity Project for Cities at the Beeck Center for Social Impact & Innovation](http://beeckcenter.georgetown.edu/projects/topc/)
-* 🧠  I'm learning health equity and social justice as a DrPH Student at Johns Hopkins Bloomberg School of Public Health
+* 🧠  I'm studying health equity and social justice as a Doctoral Student at Johns Hopkins Bloomberg School of Public Health
 * 🤝  I'm open to collaborating on data equity and justice, open-source data science education, equitable and accountable generative AI
 * ⚡  I used to be a classical violinist and performed with a mariachi band in LA
 
