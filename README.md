@@ -6,7 +6,7 @@ Mixed-methods UX Researcher
 
 I’m a researcher with a decade of experience in UX research and evaluation, data analysis, human-centered design, and project management. 
 
-I help local and state governments, public health agencies, startups, and civic tech groups user behavior through evidence-based quantitative and qualitative design research and build equity-focused, actionable data products—from maps and dashboards to case studies—so they can make informed and impactful decisions that improve the lives of their communities. I’m especially interested in products that advance equitable and sustainable food systems and climate resilience.
+I help local and state governments, public health agencies, startups, and civic tech groups learn user behavior insights through evidence-based quantitative and qualitative design research and build equity-focused, actionable data products—from maps and dashboards to case studies—so they can make informed and impactful decisions that improve the lives of their communities in areas like food systems, climate change, and sustainability.
 
 
 * 🌍  I'm based in California
