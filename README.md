@@ -1,12 +1,12 @@
-Hi 👋🏽 I'm Elham (she/ella)
+Hi 👋🏽 I'm Elham (she/ella/هي)
 =====================================
 
-Mixed-methods UX Researcher
+Data Scientist & Mixed-methods UX Researcher
 ---------------------------
 
-I’m a researcher with a decade of experience in UX research and evaluation, data analysis, human-centered design, and project management. 
+I'm a research data scientist and mixed-methods design researcher with a decade of experience in UX research, statistical data analysis, human-centered design, and project management in public health and civic tech.
 
-I help local and state governments, public health agencies, startups, and civic tech groups learn user behavior insights through evidence-based quantitative and qualitative design research and build equity-focused, actionable data products—from maps and dashboards to case studies—so they can make informed and impactful decisions that improve the lives of their communities in areas like food systems, climate change, and sustainability.
+I help local and state governments, public health agencies, startups, and civic tech groups learn user behavior insights through evidence-based quantitative and qualitative design research and build equity-focused, actionable data products—from maps and dashboards to case studies—so they can make informed and impactful decisions that improve the lives of their communities. I'm passionate about food systems, climate change, and sustainability.
 
 
 * 🌍  I'm based in California
