@@ -1,7 +1,7 @@
 Hi 👋🏽 I'm Elham (she/ella/هي)
 =====================================
 
-Data Scientist & Mixed-methods UX Researcher
+UX Researcher & Data Scientist
 ---------------------------
 
 I'm a UX researcher and research data scientist with a decade of experience in design research, statistical data analysis, human-centered design, and project management in public health and civic tech.
