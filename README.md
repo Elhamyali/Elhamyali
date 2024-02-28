@@ -1,19 +1,19 @@
 Hi 👋🏽 I'm Elham (she/ella/هي)
 =====================================
 
-UX Researcher & Data Scientist
+UX Researcher & Data Science Nerd
 ---------------------------
 
-I'm a UX researcher and research data scientist with a decade of experience in design research, statistical data analysis, human-centered design, and project management in public health and civic tech.
+I'm a UX researcher and data science nerd with a decade of experience in human-centered design research, statistical data analysis, program evaluation, and project management in public health and civic tech.
 
 I help local and state governments, public health agencies, startups, and civic tech groups learn user behavior insights through evidence-based research and build equity-focused, actionable data products—from maps and dashboards to case studies—so they can make informed and impactful decisions that improve the lives of their communities. I'm passionate about food systems, climate change, and sustainability.
 
 
 * 🌍  I'm based in California
-* 🖥️  See my portfolio at [elhamyali.github.io](http://elhamyali.github.io)
+* 🖥️  See my portfolio at [elhamyali.com](http://elhamyali.com)
 * 🚀  I'm currently working on [The Opportunity Project for Cities at the Beeck Center for Social Impact & Innovation](http://beeckcenter.georgetown.edu/projects/topc/)
 * 🧠  I'm studying health equity and social justice as a Doctoral Student at Johns Hopkins Bloomberg School of Public Health
-* 🤝  I'm open to collaborating on data equity and justice, open-source data science education, equitable and accountable generative AI
+* 🤝  I'm open to collaborating on data equity and justice, open-source data science education, equitable and accountable AI
 
 ### Skills
 
