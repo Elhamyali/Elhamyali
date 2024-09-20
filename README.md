@@ -1,13 +1,12 @@
 Hi 👋🏽 I'm Elham (she/ella/هي)
 =====================================
 
-UX Researcher & Data Science Nerd
+Mixed methods design researcher & Impact evaluation specialist
 ---------------------------
 
-I'm a UX researcher and data science nerd with a decade of experience in human-centered design research, statistical data analysis, program evaluation, and project management in public health and civic tech.
+I’m a mixed-methods design researcher with a decade of experience in human-centered design, impact evaluation, and data analysis with storytelling in civic tech and public health. I help cities equitably implement and evaluate nature-based climate solutions so they can make informed and confident decisions that protect our planet. 🌍 I also support cities in building a climate-ready workforce, preparing current and future generations to create a sustainable, resilient climate. 🌱🌿
 
-I help local and state governments, public health agencies, startups, and civic tech groups learn user behavior insights through evidence-based research and build equity-focused, actionable data products—from maps and dashboards to case studies—so they can make informed and impactful decisions that improve the lives of their communities. I'm passionate about food systems, climate change, and sustainability.
-
+🔍 I specialize in uncovering user behavior insights through evidence-based research and developing equity-focused, actionable data products—from maps to data stories. My goal is to help people discover deeper truths about the world and human experience, and to reveal stories that shift norms and shape conversations. Here is a sample of my work.
 
 * 🌍  I'm based in California
 * 🖥️  See my portfolio at [elhamyali.com](http://elhamyali.com)
