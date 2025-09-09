@@ -1,7 +1,7 @@
 Hi 👋🏽 I'm Elham (she/ella/هي)
 =====================================
 
-Mixed methods design researcher & Impact evaluation specialist
+Mixed methods researcher & writer
 ---------------------------
 
 I’m a mixed-methods design researcher with a decade of experience in human-centered design, impact evaluation, and data analysis with storytelling in civic tech and public health. I help cities equitably implement and evaluate nature-based climate solutions so they can make informed and confident decisions that protect our planet. 🌍 I also support cities in building a climate-ready workforce, preparing current and future generations to create a sustainable, resilient climate. 🌱🌿
@@ -11,8 +11,8 @@ I’m a mixed-methods design researcher with a decade of experience in human-cen
 * 🌍  I'm based in California
 * 🖥️  See my portfolio at [elhamyali.com](http://elhamyali.com)
 * 🚀  I'm currently working on [The Opportunity Project for Cities at the Beeck Center for Social Impact & Innovation](http://beeckcenter.georgetown.edu/projects/topc/)
-* 🧠  I'm studying health equity and social justice as a Doctoral Student at Johns Hopkins Bloomberg School of Public Health
-* 🤝  I'm open to collaborating on data equity and justice, open-source data science education, equitable and accountable AI
+* 🧠  I'm studying health equity and social justice as a Doctoral Candidate at Johns Hopkins Bloomberg School of Public Health
+* 🤝  I'm open to collaborating on climate equity, environmental justice, and open-source data science education
 
 ### Skills
 
